@@ -1,0 +1,55 @@
+a. Project execution method:
+
+1) Desktop
+2) open Stroke prediction folder 
+3) Copy URL ----> C:\Users\HP\OneDrive\Desktop\Stroke Prediction Using MachineLearning
+4) enter cmd
+
+cmd opened:
+
+1.Stroke prediction using MachineLearning>dir
+		then enter
+2.Stroke prediction using MachineLearning>jupyter Notebook
+		then enter
+
+b. Webpage Opened and displayed like this:
+ 
+     dataset
+	  models
+	  static
+	  templates
+	  stroke.ipynb--->click for full code or untitled 5 for correct code.
+	  config.yml
+
+c. for html page:
+
+1) Desktop
+2) open Stroke prediction folder 
+3) Copy URL ---->C:\Users\HP\OneDrive\Desktop\Stroke Prediction Using MachineLearning
+4) enter cmd
+	
+cmd opened:
+
+1.Stroke prediction using MachineLearning>dir
+		then enter
+2.Stroke prediction using MachineLearning>python app.py
+		then enter 	
+
+A http link is appeared--------->http://127.0.0.1:5000/
+	
+	Copy the link and open a webpage. Then paste the link to open a webpage for project.
+
+d. for flask program:
+
+1) Desktop
+2) open Stroke prediction folder 
+3) Copy URL ---->C:\Users\HP\OneDrive\Desktop\Stroke Prediction Using MachineLearning
+4) enter cmd
+
+cmd opened:
+
+1.Stroke prediction using MachineLearning>code .
+		then enter
+		then visual studio app will be opened.
+	   click on app.py which is displayed on left side.
+		then flask code is displayed which is acts as an interacation between program and the webpage.
